@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/morse-code-in-react/static/css/main.b44fcdcb.chunk.css",
+    "main.js": "/morse-code-in-react/static/js/main.1309f677.chunk.js",
+    "main.js.map": "/morse-code-in-react/static/js/main.1309f677.chunk.js.map",
+    "runtime-main.js": "/morse-code-in-react/static/js/runtime-main.6470fe5c.js",
+    "runtime-main.js.map": "/morse-code-in-react/static/js/runtime-main.6470fe5c.js.map",
+    "static/js/2.c2791e52.chunk.js": "/morse-code-in-react/static/js/2.c2791e52.chunk.js",
+    "static/js/2.c2791e52.chunk.js.map": "/morse-code-in-react/static/js/2.c2791e52.chunk.js.map",
+    "index.html": "/morse-code-in-react/index.html",
+    "static/css/main.b44fcdcb.chunk.css.map": "/morse-code-in-react/static/css/main.b44fcdcb.chunk.css.map",
+    "static/js/2.c2791e52.chunk.js.LICENSE.txt": "/morse-code-in-react/static/js/2.c2791e52.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6470fe5c.js",
+    "static/js/2.c2791e52.chunk.js",
+    "static/css/main.b44fcdcb.chunk.css",
+    "static/js/main.1309f677.chunk.js"
+  ]
+}

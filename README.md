@@ -1,4 +1,4 @@
-# morse-code-app-in-react
+# morse-code-app-in-react :fax:
 
 A small ReactJS app enabling encoding the text into the telegramm with use of Morse Code.
 
